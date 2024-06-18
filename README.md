@@ -51,3 +51,5 @@ Follow these instructions to get the environment up and running.
 ```bash
 git clone https://github.com/Nbreier26/WorpressPrometheus.git
 cd WorpressPrometheus
+
+docker-compose up -d
