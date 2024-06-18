@@ -27,9 +27,9 @@ Set up a comprehensive WordPress environment using Docker Compose. This configur
 - Docker
 - Docker Compose
 
-Check out the [README](https://github.com/Nbreier26/WordpressPrometheus.git/blob/main/README.md) for detailed setup instructions.
+Check out the [README](https://github.com/Nbreier26/WordpressPrometheus/blob/main/README.md) for detailed setup instructions.
 
-🔗 **Get Started**:[https://github.com/yourusername/yourrepository](https://github.com/Nbreier26/WordpressPrometheus.git)
+🔗 **Get Started**: https://github.com/Nbreier26/WordpressPrometheus.git
 
 ---
 
