@@ -16,7 +16,10 @@ Set up a comprehensive WordPress environment using Docker Compose. This configur
 
 1. Clone the repository.
 2. Run `docker-compose up -d`.
-3. Access WordPress at `http://localhost:8081`, Prometheus at `http://localhost:9090`, and cAdvisor at `http://localhost:8080`.
+3. Access:
+WordPress at `http://localhost:8081`,
+Prometheus at `http://localhost:9090`,
+and cAdvisor at `http://localhost:8080`.
 
 📂 **Volumes:**
 
