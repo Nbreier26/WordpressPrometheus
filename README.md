@@ -49,7 +49,7 @@ Follow these instructions to get the environment up and running.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Nbreier26/WorpressPrometheus.git
-cd WorpressPrometheus
+git clone https://github.com/Nbreier26/WordpressPrometheus.git
+cd WordpressPrometheus
 
 docker-compose up -d
